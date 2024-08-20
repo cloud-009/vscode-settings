@@ -2,14 +2,14 @@
 
 ## How to run ?
 
-### Install the vscode extension `custom css and js`, then copy paste the `settings.json` file in your vscode `setting.json`.
+1. Install the vscode extension `custom css and js`, then copy paste the `settings.json` file in your vscode `setting.json`.
 
-### Probably, finding it by `Ctrl + Shift + p`, then search for `settings.json` and it'll be the user's default.
+2. Probably, finding it by `Ctrl + Shift + p`, then search for `settings.json` and it'll be the user's default.
 
-### Then copy the `css` and `js` files, and add it in the directory of your like.
+3. Then copy the `css` and `js` files, and add it in the directory of your like.
 
-### In `settings.json`, define the relative path to your css ans js files.
+4. In `settings.json`, define the relative path to your css ans js files.
 
-### These files changes the way your `command-palette` looks, and you can customize anything you want.
+5. These files changes the way your `command-palette` looks, and you can customize anything you want.
 
-### Toggle developer tools for `vscode` by going to `help -> Toggle developer tools`.
+6. Toggle developer tools for `vscode` by going to `help -> Toggle developer tools`.
