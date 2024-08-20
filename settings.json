@@ -1,0 +1,68 @@
+{
+  "window.newWindowDimensions": "maximized",
+  "editor.minimap.enabled": false,
+  "workbench.sideBar.location": "right",
+
+  //customizing
+  "editor.copyWithSyntaxHighlighting": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.emptySelectionClipboard": false,
+  "workbench.editor.enablePreview": false,
+  "editor.multiCursorModifier": "alt",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": false,
+  "window.nativeFullScreen": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.lineNumbers": "on",
+  "editor.guides.indentation": false,
+  "scm.diffDecorations": "none",
+  "editor.hover.delay": 300,
+  "editor.hover.enabled": true,
+  "editor.matchBrackets": "never",
+  "workbench.tips.enabled": false,
+  "editor.colorDecorators": false,
+  "git.decorations.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.selectionHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": "off",
+  "problems.decorations.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+
+  // Typography
+  "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+  "editor.suggestFontSize": 14,
+  "editor.suggestLineHeight": 30,
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.fontSize": 14,
+
+  // import custom css and js files
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/006146/custom-vscode.css",
+    "file:///C:/Users/006146/custom-vscode.js"
+  ],
+  "workbench.activityBar.location": "hidden",
+  "editor.stickyScroll.enabled": false,
+  "editor.renderWhitespace": "none",
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "workbench.statusBar.visible": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
